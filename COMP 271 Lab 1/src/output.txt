@@ -1,0 +1,17 @@
+Chicago/Loyola (RED line) located at 42.0005321,-87.6654555
+Chicago/Granville (RED line) located at 41.9946956,-87.6648976
+Chicago/Thorndale (RED line) located at 41.9937068,-87.6627518
+
+Loyola
+2.75
+
+Chicago/Wilson (RED line) located at 41.9946956,-87.6648976
+
+Wilson station is OPEN
+distance from loop: 0.11857532043861277 degrees
+new distance from loop: 0.1153956854354595 degrees
+Berwyn
+
+Wilson
+Chicago
+2.75
